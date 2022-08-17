@@ -1,0 +1,22 @@
+
+.Images {
+    width: 40%;
+    height: auto;
+    float:left;
+}
+
+.Contact-Form{
+    max-width: 100%;
+    height: auto;
+    text-align:center;
+    padding-top: 10%;
+    
+}
+
+.Contact-Form input {
+    font-size: 30px
+}
+
+.Contact-Form label {
+    font-size: 30px
+}
